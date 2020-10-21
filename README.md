@@ -52,4 +52,4 @@ java -jar main-module/build/libs/main-module.jar
 * Merge request вашей реализации в этот репозиторий
 
 ## Дедлайн
-11 октября 23:59
+2 группа - 31 октября 23:59
